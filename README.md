@@ -1,1 +1,1 @@
-# NishatAirin
+### This repository contains a comprehensive analysis of datasets using various data analysis tools and techniques.The main goal is to uncover trends and correlations that can provide insights into the factors influencing decision-making and the project success.
